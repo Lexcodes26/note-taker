@@ -1,7 +1,7 @@
 ## Summary 
 This simple application will allow you to write and save notes with a title and is powered by using ExpressJS. Therefore, you can create, view and delete your notes at your leisure.
 
-## Installing 
+## Installation
 
 Clone the repository to your local development environment.
 
